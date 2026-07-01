@@ -1,0 +1,288 @@
+canonical_identifier: bkk:krp/KR6h0019/X/v1
+canonical_location: https://kanripo.org/bkk/KR6h0019/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 地藏本願經科註
+  identifiers:
+    krp: KR6h0019
+    cbeta: X21n0384
+    cbeta_old_id: X21n0384
+    authorityid: CA0000757
+    json_key: X0384
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0384.xml
+    old_id: X21n0384
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6h0019_000-X.yaml, hash: 'sha256:c3c4c1f1d249ae7f355151a0f68eb3874bf5190848bc31a6ac9342275d0e63e5'}
+  - {seq: 1, filename: KR6h0019_001-X.yaml, hash: 'sha256:902f2b4469fbb5e324cc9388eb0b62cdbdc1d43ff15ce5da1f0065ba00100668'}
+  - {seq: 2, filename: KR6h0019_002-X.yaml, hash: 'sha256:dd02eafa58acecf9ef5c6617aeb924d57cdf88e9a957867311216aa620431396'}
+  - {seq: 3, filename: KR6h0019_003-X.yaml, hash: 'sha256:aea5562c9aec49826ce48991153dfe151bf0e29c41e17c0786e33423f6dfa6dc'}
+  - {seq: 4, filename: KR6h0019_004-X.yaml, hash: 'sha256:814ff3a3a5d7627af0538d80174d451a551d15fed353682a8b8073fec9fcc1a2'}
+  - {seq: 5, filename: KR6h0019_005-X.yaml, hash: 'sha256:dfbde0b18e5a35faae3f1917b874708c6e119b3c563b60fe4a74cd92a1c1160f'}
+  - {seq: 6, filename: KR6h0019_006-X.yaml, hash: 'sha256:b3cbe2ab8b45ae571d910f8aa3258ac9a9a29a006fdc75727f01f33c6ab176d8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6h0019_000-X.markers.yaml, hash: 'sha256:22eee9560a0074417f8b44f3a92f002ffb1d736014cbd3a36dbf37918109ef03'}
+  - {seq: 1, role: markers, filename: assets/KR6h0019_001-X.markers.yaml, hash: 'sha256:a2a0b8148415d4e036002678d5f58e39d382b526f722007ada0b2aaff0e33f58'}
+  - {seq: 2, role: markers, filename: assets/KR6h0019_002-X.markers.yaml, hash: 'sha256:8b8472bad37691524d16190aabbfcd05dbce34442ce92ca0d3ba65771a112f64'}
+  - {seq: 3, role: markers, filename: assets/KR6h0019_003-X.markers.yaml, hash: 'sha256:12d012b8e2ea96c56118fe175b80082a3e3cbbf7056be8d7eb223659754c869d'}
+  - {seq: 4, role: markers, filename: assets/KR6h0019_004-X.markers.yaml, hash: 'sha256:822403200079bcd1b2ca0403b72e8bccfc00f27d119d715a3a58ac7795e566c5'}
+  - {seq: 5, role: markers, filename: assets/KR6h0019_005-X.markers.yaml, hash: 'sha256:b6f364405c4bd2f8b8eb23b1f0f12dae4de05a867de665db8ac954f5dc21e2dd'}
+  - {seq: 6, role: markers, filename: assets/KR6h0019_006-X.markers.yaml, hash: 'sha256:82e815633861ebd88bad8254b23773527de5da34a937a8d798fd0818afc0e6ab'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6h0019_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 35936
+  label: 地藏菩薩本願經卷上科注卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0019_X_001-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 譯師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0019_X_001-mulu-2
+    span:
+    - body
+    - 392
+    - 392
+  label: 忉利天宮神通品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6h0019_X_001-mulu-3
+    span:
+    - body
+    - 29435
+    - 29435
+  label: 分身集會品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0019_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 25980
+  label: 地藏菩薩本願經卷上科注卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0019_X_002-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 觀眾生業緣品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6h0019_X_002-mulu-2
+    span:
+    - body
+    - 8015
+    - 8015
+  label: 閻浮眾生業感品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0019_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 23671
+  label: 地藏菩薩本願經卷中科注卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0019_X_003-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 地獄名號品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6h0019_X_003-mulu-2
+    span:
+    - body
+    - 8132
+    - 8132
+  label: 如來讚歎品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6h0019_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 27945
+  label: 地藏菩薩本願經卷中科注卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6h0019_X_004-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 利益存亡品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6h0019_X_004-mulu-2
+    span:
+    - body
+    - 7270
+    - 7270
+  label: 閻羅王眾讚歎品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6h0019_X_004-mulu-3
+    span:
+    - body
+    - 21113
+    - 21113
+  label: 稱佛名號品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0019_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 16161
+  label: 地藏菩薩本願經卷下科注卷之五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0019_X_005-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 較量布施功德緣品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6h0019_X_005-mulu-2
+    span:
+    - body
+    - 10821
+    - 10821
+  label: 地神護法品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0019_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 21612
+  label: 地藏菩薩本願經卷下科注卷之六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0019_X_006-mulu-1
+    span:
+    - body
+    - 12
+    - 12
+  label: 見聞利益品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0019_X_006-mulu-2
+    span:
+    - body
+    - 13623
+    - 13623
+  label: 囑累人天品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0019_X_006-mulu-3
+    span:
+    - body
+    - 20754
+    - 20754
+  label: No. 384-A 後䟦
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0019_X_006-mulu-4
+    span:
+    - body
+    - 20756
+    - 20756
+  label: 跋文
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0019_X_006-mulu-5
+    span:
+    - body
+    - 20995
+    - 20995
+  label: 經讚附
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0019_X_006-mulu-6
+    span:
+    - body
+    - 21094
+    - 21094
+  label: 陳九陶先生贈言併序附
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6h0019_X_006-mulu-7
+    span:
+    - body
+    - 21428
+    - 21428
+  label: No. 384-B 䟦
+  type: mulu
+  level: 1
+hash: sha256:b3f5da114ba4c11afe1d9d903927ba0556abce3a515f212d77a56110ad5c6804

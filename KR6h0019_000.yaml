@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6h0019/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 地藏本願經科註
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0384.xml
+    old_id: X21n0384
+hash: sha256:c3c4c1f1d249ae7f355151a0f68eb3874bf5190848bc31a6ac9342275d0e63e5
