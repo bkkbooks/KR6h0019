@@ -22,19 +22,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6h0019_000.yaml, hash: 'sha256:c3c4c1f1d249ae7f355151a0f68eb3874bf5190848bc31a6ac9342275d0e63e5'}
-  - {seq: 1, filename: KR6h0019_001.yaml, hash: 'sha256:625a54ca019211fe0543acc4fb145cf3ec7ae7051267456d67aa8711c65f5c94'}
-  - {seq: 2, filename: KR6h0019_002.yaml, hash: 'sha256:99c1bf79780cf9d7c18031c103a54b202fc8c9cb89e86a2c067b299a523511d6'}
-  - {seq: 3, filename: KR6h0019_003.yaml, hash: 'sha256:dd487bfde135e5d622d59e048d0bf8b55047f327706c2c32e699eb2524149885'}
-  - {seq: 4, filename: KR6h0019_004.yaml, hash: 'sha256:d8eb821fdef85e606a6600c231d9ce99165ce7ea502497e68149d239413ad82c'}
-  - {seq: 5, filename: KR6h0019_005.yaml, hash: 'sha256:1913534cdcad7fccaf05873b5075716cf9ba16ff911d6f2320f02bcad8f5f4d3'}
-  - {seq: 6, filename: KR6h0019_006.yaml, hash: 'sha256:9a118dcc1f3c9291b4b117ccb9e1b2556817611dea47abb8e661b855065f679d'}
+  - {seq: 1, filename: KR6h0019_001.yaml, hash: 'sha256:902f2b4469fbb5e324cc9388eb0b62cdbdc1d43ff15ce5da1f0065ba00100668'}
+  - {seq: 2, filename: KR6h0019_002.yaml, hash: 'sha256:dd02eafa58acecf9ef5c6617aeb924d57cdf88e9a957867311216aa620431396'}
+  - {seq: 3, filename: KR6h0019_003.yaml, hash: 'sha256:aea5562c9aec49826ce48991153dfe151bf0e29c41e17c0786e33423f6dfa6dc'}
+  - {seq: 4, filename: KR6h0019_004.yaml, hash: 'sha256:814ff3a3a5d7627af0538d80174d451a551d15fed353682a8b8073fec9fcc1a2'}
+  - {seq: 5, filename: KR6h0019_005.yaml, hash: 'sha256:dfbde0b18e5a35faae3f1917b874708c6e119b3c563b60fe4a74cd92a1c1160f'}
+  - {seq: 6, filename: KR6h0019_006.yaml, hash: 'sha256:b3cbe2ab8b45ae571d910f8aa3258ac9a9a29a006fdc75727f01f33c6ab176d8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6h0019_001.markers.yaml, hash: 'sha256:ea67de48809a86ce6a24306d0a2f618bad2ef5c224424a4af2959e6f87f126f3'}
-  - {seq: 2, role: markers, filename: assets/KR6h0019_002.markers.yaml, hash: 'sha256:b08feaf18a53524867c17f608cab27b81b7d8701ff9a1bcaf7f7884ce8fb9e70'}
-  - {seq: 3, role: markers, filename: assets/KR6h0019_003.markers.yaml, hash: 'sha256:4330031f6cf9d7f93b986de7a5d64e559b03f6432daacdab5b0d7bfb3d4a1af3'}
-  - {seq: 4, role: markers, filename: assets/KR6h0019_004.markers.yaml, hash: 'sha256:3449b12a4d4bb268308f487271f0a9754fe690d31fcc7ea780328f443c2b270d'}
-  - {seq: 5, role: markers, filename: assets/KR6h0019_005.markers.yaml, hash: 'sha256:1a95d9faf6bc43fd3a0a68b64e728db3eddc4d2c4a174d1c39383d8f6044c1d2'}
-  - {seq: 6, role: markers, filename: assets/KR6h0019_006.markers.yaml, hash: 'sha256:762633c2c6a28486e885af5f783c72a9712260da17ee965b555afa0e180e7036'}
+  - {seq: 0, role: markers, filename: assets/KR6h0019_000.markers.yaml, hash: 'sha256:a2074a0fd7df45c5d1383a98d130ded5ad169a484f983bcab3ef226db363330e'}
+  - {seq: 1, role: markers, filename: assets/KR6h0019_001.markers.yaml, hash: 'sha256:91f3d0ca1d25cb4b89f870a6a9dd0f118e5b897e01845c777323d4bfd877367c'}
+  - {seq: 2, role: markers, filename: assets/KR6h0019_002.markers.yaml, hash: 'sha256:c1d639cb06bf57a7f0f9ad1bef8885bd41f93bb38f494d28346e280e9838c649'}
+  - {seq: 3, role: markers, filename: assets/KR6h0019_003.markers.yaml, hash: 'sha256:e58e773c17b75b79a99d2f8e7adebaa15ed53ff0a6fe37d220b817939da50777'}
+  - {seq: 4, role: markers, filename: assets/KR6h0019_004.markers.yaml, hash: 'sha256:099a3a70b9de68da49b0f930008f9216f3e3f0b3ccba5527828b1923d4c1e2e0'}
+  - {seq: 5, role: markers, filename: assets/KR6h0019_005.markers.yaml, hash: 'sha256:34e89d078125fed8273fb73434e9e8a9c4a8a2bbd2795b2c79472c961494f7ee'}
+  - {seq: 6, role: markers, filename: assets/KR6h0019_006.markers.yaml, hash: 'sha256:713305d8305d0637beefa524c82b44f0da3ee965d7859fedfabf2cf08c272446'}
 table_of_contents:
 - ref:
     seq: 1
@@ -286,7 +287,4 @@ table_of_contents:
   label: No. 384-B 䟦
   type: mulu
   level: 1
-hash: sha256:87d40e5ec56d2b5aadac4f6a96a04cb8ebf68e416a4b3ce3909c18350b0d4a20
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4d3042b8a5e612c89eee79e441848fae62a7fbafb547db06c99d3d37d838d7a0
